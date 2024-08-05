@@ -1,0 +1,731 @@
+INFO:root:Prediction made: 104,480.17
+INFO:root:Prediction made: 104,480.17
+INFO:root:Prediction made: 104,480.17
+INFO:root:Prediction made: 104,480.17
+INFO:root:Prediction made: 104,480.17
+INFO:root:Prediction made: 108,520.23
+INFO:root:Prediction made: 119,560.00
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,588.57
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 83,829.02
+INFO:root:Prediction made: 76,621.39
+INFO:root:Prediction made: 70,758.45
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,588.57
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,588.57
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 96,393.94
+INFO:root:Prediction made: 83,829.02
+INFO:root:Prediction made: 83,829.02
+INFO:root:Prediction made: 83,829.02
+INFO:root:Prediction made: 76,621.39
+INFO:root:Prediction made: 70,758.45
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Alley_Grvl
+- Alley_Missing
+- Alley_Pave
+- BsmtCond_Missing
+- BsmtExposure_Missing
+- ...
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- SalePrice
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- SalePrice
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- SalePrice
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- SalePrice
+
+ERROR:root:Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- SalePrice
+
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 95,118.97
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:X shape: (1460, 275), y shape: (1460,)
+INFO:root:y_test_exp head: [0. 0. 0. 0. 0.]
+INFO:root:y_pred_exp head: [0. 0. 0. 0. 0.]
+INFO:root:Prediction made: 85,813.80
+INFO:root:X shape: (1460, 275), y shape: (1460,)
+INFO:root:y_test_exp head: [0. 0. 0. 0. 0.]
+INFO:root:y_pred_exp head: [0. 0. 0. 0. 0.]
+INFO:root:Prediction made: 85,813.80
+INFO:root:X shape: (1460, 275), y shape: (1460,)
+INFO:root:y_test_exp head: [0. 0. 0. 0. 0.]
+INFO:root:y_pred_exp head: [0. 0. 0. 0. 0.]
+INFO:root:Prediction made: 85,813.80
+INFO:root:X shape: (1460, 275), y shape: (1460,)
+INFO:root:y_test_exp head: [0. 0. 0. 0. 0.]
+INFO:root:y_pred_exp head: [0. 0. 0. 0. 0.]
+INFO:root:Prediction made: 85,813.80
+INFO:root:X shape: (1460, 275), y shape: (1460,)
+INFO:root:y_test_exp head: [0. 0. 0. 0. 0.]
+INFO:root:y_pred_exp head: [0. 0. 0. 0. 0.]
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [138557.5   315617.625 116424.6   152308.86  304271.395]
+INFO:root:y_test head: 892     154500
+1105    325000
+413     115000
+522     159000
+1036    315500
+Name: SalePrice, dtype: int64
+INFO:root:y_pred_exp head: [inf inf inf inf inf]
+INFO:root:y_test_exp head: 892     inf
+1105    inf
+413     inf
+522     inf
+1036    inf
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 0.0
+INFO:root:Mean Squared Error: 0.0
+INFO:root:R-squared: 1.0
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [138557.5   315617.625 116424.6   152308.86  304271.395]
+INFO:root:y_test head: 892     154500
+1105    325000
+413     115000
+522     159000
+1036    315500
+Name: SalePrice, dtype: int64
+INFO:root:y_pred_exp head: [inf inf inf inf inf]
+INFO:root:y_test_exp head: 892     inf
+1105    inf
+413     inf
+522     inf
+1036    inf
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 0.0
+INFO:root:Mean Squared Error: 0.0
+INFO:root:R-squared: 1.0
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [138557.5   315617.625 116424.6   152308.86  304271.395]
+INFO:root:y_test head: 892     154500
+1105    325000
+413     115000
+522     159000
+1036    315500
+Name: SalePrice, dtype: int64
+INFO:root:y_pred range before expm1: min=72839.02, max=470558.655
+INFO:root:y_test range before expm1: min=35311, max=755000
+INFO:root:y_pred_exp head after expm1: [inf inf inf inf inf]
+INFO:root:y_test_exp head after expm1: 892     inf
+1105    inf
+413     inf
+522     inf
+1036    inf
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 0.0
+INFO:root:Mean Squared Error: 0.0
+INFO:root:R-squared: 1.0
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 95,118.97
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 87,854.53
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 88,558.41
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 88,558.41
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 88,558.41
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 88,558.41
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
+INFO:root:Prediction made: 85,813.80
+INFO:root:y_pred head: [11.83451552 12.64418345 11.65770065 11.88802611 12.64043127]
+INFO:root:y_test head: 892     11.947956
+1105    12.691584
+413     11.652696
+522     11.976666
+1036    12.661917
+Name: SalePrice, dtype: float64
+INFO:root:y_pred_exp head after expm1: [137930.92126148 309954.32394523 115576.97039829 145512.78658806
+ 308793.4939617 ]
+INFO:root:y_test_exp head after expm1: 892     154500.0
+1105    325000.0
+413     115000.0
+522     159000.0
+1036    315500.0
+Name: SalePrice, dtype: float64
+INFO:root:Mean Absolute Error: 17714.19662677992
+INFO:root:Mean Squared Error: 1168473987.7942157
+INFO:root:R-squared: 0.8476630646165544
